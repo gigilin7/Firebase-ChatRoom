@@ -10,6 +10,7 @@
 + 其他細節調整
 
 ## 成果圖
+<img src="https://raw.githubusercontent.com/gigilin7/Firebase-ChatRoom/master/picture/chat1.jpg" height=400 width=230><img src="https://raw.githubusercontent.com/gigilin7/Firebase-ChatRoom/master/picture/chat2.jpg" height=400 width=230>
  
 
 參考: `https://code.tutsplus.com/zh-hant/tutorials/how-to-create-an-android-chat-app-using-firebase--cms-27397`
